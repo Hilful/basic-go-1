@@ -2,6 +2,10 @@ package main
 
 import "fmt"
 
+// func init() {
+// 	println("This function is going to get called first before calling main!")
+// }
+
 func main() {
 	// var name string
 	// name = "Ashabul Elaph Hilful"
