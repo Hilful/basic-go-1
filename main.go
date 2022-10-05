@@ -33,6 +33,6 @@ func main() {
 	var first, second int = 10, 20
 
 	var fltNumber = float64(first + second + 30)
-	fmt.Println("Sum of the numbers:", fltNumber)
+	fmt.Printf("Type of sum : %T and sum of number %v", fltNumber, fltNumber)
 
 }
